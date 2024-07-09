@@ -42,6 +42,34 @@
         "active": true
     },
     {
+        "name": "Amber",
+        "url": "https://github.com/amber-lang/amber",
+        "description": "The Programming Language compiled to Bash.",
+        "stars": 3600,
+        "active": true
+    },
+    {
+        "name": "ScoutLang",
+        "url": "https://github.com/maxmindlin/scout-lang",
+        "description": "A web crawling programming language.",
+        "stars": 42,
+        "active": true
+    },
+    {
+        "name": "ScoutLang",
+        "url": "https://github.com/maxmindlin/scout-lang",
+        "description": "A web crawling programming language.",
+        "stars": 42,
+        "active": true
+    },
+    {
+        "name": "zawk",
+        "url": "https://github.com/linux-china/zawk",
+        "description": "An efficient awk-like language by Rust with stdlib support: zawk = AWK + stdlib + Rust",
+        "stars": 4,
+        "active": true
+    },
+    {
         "name": "Lang",
         "url": "https://github.com/gsingh93/lang",
         "description": "An imperative programming language written in Rust",

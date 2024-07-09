@@ -27,6 +27,7 @@ Then it can be included in this list!
 | [Parcel CSS] | 5,114 | ☀️ Active | An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. |
 | [Melody] | 4,520 | ☀️ Active | Melody is a language that compiles to regular expressions and aims to be more readable and maintainable |
 | [Boa] | 4,348 | ☀️ Active | Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language. |
+| [Amber] | 3,600 | ☀️ Active | The Programming Language compiled to Bash. |
 | [Leo] | 3,464 | ☀️ Active | 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications |
 | [Kind] | 3,324 | ☀️ Active | A next-gen functional language |
 | [Rhai] | 3,192 | ☀️ Active | Rhai - An embedded scripting language for Rust. |
@@ -72,6 +73,8 @@ Then it can be included in this list!
 | [rtforth] | 78 | ☀️ Active | Forth implemented in Rust for realtime application |
 | [Calypso] | 60 | ☀️ Active | Calypso is a mostly imperative language with some functional influences that is focused on flexibility and simplicity. |
 | [Oriel] | 55 | ☀️ Active | An interpreter for the 1991 Oriel scripting language |
+| [ScoutLang] | 42 | ☀️ Active | A web crawling programming language. |
+| [ScoutLang] | 42 | ☀️ Active | A web crawling programming language. |
 | [Stellar] | 40 | ☀️ Active | ✨ An open source WIP general programming language for web development built using Rust. ✨ |
 | [Ellie] | 39 | ☀️ Active | Ellie is a type-safe programing language that runs on embedded and sandboxed environments. |
 | [darklua] | 37 | ☀️ Active | A command line tool that transforms Lua code |
@@ -84,6 +87,7 @@ Then it can be included in this list!
 | [Sligh] | 10 | ☀️ Active | A language for certifying specification |
 | [RayQL] | 8 | ☀️ Active | A schema definition and query language for SQLite. |
 | [snow-lang] | 7 | ☀️ Active | A functional programming language |
+| [zawk] | 4 | ☀️ Active | An efficient awk-like language by Rust with stdlib support: zawk = AWK + stdlib + Rust |
 | [loxidation] | 4 | ☀️ Active | Lox bytecode compiler and VM in Rust |
 | [Tron] | 4 | ☀️ Active | Open source programming language written in Rust. |
 | [PopperLang] | 1 | ☀️ Active | The CLI that group all project to one to finally make the Popper-lang  |
@@ -154,6 +158,10 @@ broader than a programming language project.
 [Gluon]: https://github.com/gluon-lang/gluon
 [Antimony]: https://github.com/antimony-lang/antimony
 [Tao]: https://github.com/zesterer/tao
+[Amber]: https://github.com/amber-lang/amber
+[ScoutLang]: https://github.com/maxmindlin/scout-lang
+[ScoutLang]: https://github.com/maxmindlin/scout-lang
+[zawk]: https://github.com/linux-china/zawk
 [Lang]: https://github.com/gsingh93/lang
 [Iron]: https://github.com/Arcterus/iron-lang
 [atto]: https://github.com/zesterer/atto
